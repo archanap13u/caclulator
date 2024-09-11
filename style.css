@@ -1,0 +1,24 @@
+table{
+    
+   border: 2px solid ;
+   border-radius: 8px;
+   background-color: wheat;
+   height: 300px;
+   width:600px
+   
+    
+}
+button{
+    width:100%;
+    padding:30px;
+    border-radius: 5px;
+    background-color: red;
+}
+input{
+    padding: 10px;
+    width:100%
+}
+h2{
+    color: rgb(31, 31, 24);
+text-shadow: 1px 2px red;
+}
